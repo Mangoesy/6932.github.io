@@ -283,9 +283,12 @@ section img {
 }
 
 .aboutPageImg2 {
+  display: block;
   width: 60%;
   height: 300px;
+  margin: 0 auto;
   margin-top: 20px;
+  border-radius: 8px;
 }
 
 .aboutPageText {
